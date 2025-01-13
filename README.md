@@ -1,1 +1,1 @@
-# milapulgames.gihub.io
+# milapulgames.github.io
